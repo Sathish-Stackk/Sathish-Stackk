@@ -36,7 +36,7 @@
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sathish-mungi">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
