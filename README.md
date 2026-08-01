@@ -1,70 +1,54 @@
 # Hi there 👋, I'm Sathish 
 
-### 💻 Final Year B.Tech CSE Student | Aspiring Software Engineer
+# 💻 Final Year B.Tech CSE Student | Aspiring Software Engineer
 
 I'm a passionate Computer Science student from India who enjoys solving problems, building real-world projects, and continuously learning new technologies.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Final Year B.Tech in Computer Science Engineering
 - 💻 Interested in Software Development & Full Stack Development
-- 🌱 Currently learning Python, Data Structures & Algorithms
+- 🌱 Currently learning Python with DSA, JavaScript, React, Node.js and AWS
 - 🤖 Building AI-powered projects for Agriculture
-- 🎯 Preparing for Software Engineering placements
+- 🎯 Goal: Become a Software Developer
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,vscode,aws" />
+</p>
 
-![Python](https://skillicons.dev/icons?i=python)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+# 📚 Core Subjects
 
-### Tools & Technologies
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+- Operating Systems
+- Database Management System (DBMS)
+- Computer Networks
+- Object-Oriented Programming (OOP)
 
 ---
 
-## 🌱 Currently Learning
+
+# 💻 Currently Learning
 
 - Data Structures & Algorithms
 - Python
 - Git & GitHub
 - Full Stack Development
 - MySQL
-
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌾 AgriVision AI
+# 🌾 AgriVision AI
 Agriculture Monitoring And Precision Spraying Rover
 
-
-
-
 ---
 
-## 🎯 2026 Goals
-
-- ✅ Solve 300+ DSA Problems
-- ✅ Build 10+ Real-World Projects
-- ✅ Master Full Stack Development
-- ✅ Contribute to Open Source
-- ✅ Crack a Software Engineer role
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -76,7 +60,7 @@ Agriculture Monitoring And Precision Spraying Rover
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -93,7 +77,11 @@ Agriculture Monitoring And Precision Spraying Rover
 📧 **Email:** sathishmungi@gmail.com
 
 ---
+# 💬 Quote 
 
-> **"Every commit is progress."**
+<p align="center">
+<i>"𝐄𝐯𝐞𝐫𝐲 𝐂𝐨𝐦𝐦𝐢𝐭 𝐢𝐬 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬."</i>
+</p>
 
 ⭐ Thanks for visiting my profile!
+
