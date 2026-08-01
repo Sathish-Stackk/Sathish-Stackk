@@ -47,7 +47,7 @@ I'm a passionate Computer Science student from India who enjoys solving problems
 ## 🚀 Featured Projects
 
 ### 🌾 AgriVision AI
-Autonomous Smart Farming Rover for Precision Agriculture.
+Agriculture Monitoring And Precision Spraying Rover
 
 
 
