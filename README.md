@@ -87,15 +87,6 @@
 </div>
 
 ---
-# 🐍 My Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -127,8 +118,10 @@ Autonomous ai smart farming rover for precision agriculture
 
 <div align="center">
 
-> ⭐ Thanks for visiting my profile!
+### ✨ “Every Commit is a Step Forward.” 🚀
 
-### 🚀 Keep Learning • Keep Building • Keep Growing 🌱
+<br>
+
+⭐ Thanks for visiting my profile!
 
 </div>
