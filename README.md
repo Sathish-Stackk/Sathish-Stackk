@@ -1,8 +1,18 @@
-# Hi there 👋, I'm Sathish 
+<!-- HEADER -->
 
-# 💻 Final Year B.Tech CSE Student | Aspiring Software Engineer
+<div align="center">
 
-I'm a passionate Computer Science student from India who enjoys solving problems, building real-world projects, and continuously learning new technologies.
+# Hi there 👋, I'm Sathish
+
+### 💻 Final Year B.Tech CSE Student | Aspiring Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Learning+DSA+Every+Day;Building+Real-World+Projects;Exploring+Full+Stack+Development;Building+AI-powered+Agriculture+Projects" />
+
+<br>
+
+
+
+</div>
 
 ---
 
@@ -18,9 +28,13 @@ I'm a passionate Computer Science student from India who enjoys solving problems
 
 # 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,vscode,aws" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,aws,mysql,git,github,html,css" />
+
+</div>
+
+---
 
 # 📚 Core Subjects
 
@@ -31,7 +45,6 @@ I'm a passionate Computer Science student from India who enjoys solving problems
 
 ---
 
-
 # 💻 Currently Learning
 
 - Data Structures & Algorithms
@@ -39,49 +52,72 @@ I'm a passionate Computer Science student from India who enjoys solving problems
 - Git & GitHub
 - Full Stack Development
 - MySQL
+
+---
+
+# 📈 Daily Progress
+
+<div align="center">
+
+### 🔥 Consistency is the key
+
+<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+
+# 📅 My Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathish-Stackk&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 My Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
 ---
 
 # 🚀 Featured Projects
 
 # 🌾 AgriVision AI
+
 Autonomous ai smart farming rover for precision agriculture
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sathish-Stackk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish-Stackk&theme=tokyonight&hide_border=true" />
+
+</div>
+
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sathish-mungi">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/Sathish-Stackk">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-</p>
-
-📧 **Email:** sathishmungi@gmail.com
+📧 **Email:** [sathishmungi@gmail.com](mailto:sathishmungi@gmail.com)
 
 ---
-# 💬 Quote 
 
-<p align="center">
-<i>"𝐄𝐯𝐞𝐫𝐲 𝐂𝐨𝐦𝐦𝐢𝐭 𝐢𝐬 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬."</i>
-</p>
+# 💬 Quote
 
-⭐ Thanks for visiting my profile!
+<div align="center">
 
+> ⭐ Thanks for visiting my profile!
+
+### 🚀 Keep Learning • Keep Building • Keep Growing 🌱
+
+</div>
