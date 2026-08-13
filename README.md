@@ -59,9 +59,16 @@
 
 <div align="center">
 
-### 🔥 Consistency is the key
+<img src="https://github-readme-stats.vercel.app/api?username=Sathish-Stackk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true" />
+</div>
+---
+
+# 💻 Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -102,11 +109,9 @@ Autonomous ai smart farming rover for precision agriculture
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish-Stackk&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
 
 # 🌐 Connect With Me
 
