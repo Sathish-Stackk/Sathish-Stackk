@@ -64,14 +64,13 @@
 </div>
 ---
 
-# 💻 Languages
+# 💻 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&theme=tokyonight" />
 
 </div>
-
 ---
 
 
