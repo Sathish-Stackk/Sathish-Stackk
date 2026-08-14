@@ -109,7 +109,7 @@ Autonomous ai smart farming rover for precision agriculture
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Sathish-Stackk&show_icons=true&theme=tokyonight" />
 
 </div>
 
