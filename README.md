@@ -75,11 +75,11 @@
 ---
 
 
-# 📅 My Coding Activity
+# 🔥 Daily Progress
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathish-Stackk&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sathish-Stackk&theme=tokyonight" />
 
 </div>
 
