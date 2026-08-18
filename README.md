@@ -66,11 +66,11 @@
 ---
 
 
-# 🔥 Daily Progress
+## 🔥 Daily Progress
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sathish-Stackk&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
