@@ -67,23 +67,20 @@
 
 
 ## 🔥 Daily Progress
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 # 🐍 My Contribution Graph
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
-
 ---
 
 </div>
