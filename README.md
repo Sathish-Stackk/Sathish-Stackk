@@ -67,8 +67,11 @@
 
 
 ## 🔥 Daily Progress
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true" width="500" alt="GitHub Streak" />
+
 </div>
 
 ---
