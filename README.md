@@ -117,6 +117,5 @@ Autonomous ai smart farming rover for precision agriculture
 
 <br>
 
-⭐ Thanks for visiting my profile!
-
+⭐ Thanks for visiting my profile..!
 </div>
