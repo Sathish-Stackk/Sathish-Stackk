@@ -1,5 +1,3 @@
-<!-- HEADER -->
-
 <div align="center">
 
 # Hi there 👋, I'm Sathish
@@ -8,15 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Learning+DSA+Every+Day;Building+Real-World+Projects;Exploring+Full+Stack+Development;Building+AI-powered+Agriculture+Projects" />
 
-<br>
-
-
-
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 Final Year B.Tech in Computer Science Engineering
 - 💻 Interested in Software Development & Full Stack Development
@@ -26,7 +20,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -36,7 +30,7 @@
 
 ---
 
-# 📚 Core Subjects
+## 📚 Core Subjects
 
 - Operating Systems
 - Database Management System (DBMS)
@@ -45,7 +39,7 @@
 
 ---
 
-# 💻 Currently Learning
+## 💻 Currently Learning
 
 - Data Structures & Algorithms
 - Python
@@ -54,18 +48,16 @@
 - MySQL
 
 ---
----
 
-# 💻 Most Used Languages
+## 💻 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&theme=tokyonight" />
 
 </div>
----
 
-#
+---
 
 ## 🔥 Daily Progress
 
@@ -77,47 +69,47 @@
 
 ---
 
-# 🐍 My Contribution Graph
+## 🐍 My Contribution Graph
+
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
 </picture>
-</div>
----
 
 </div>
 
-# 🚀 Featured Projects
+---
 
-# 🌾 AgriVision AI
+## 🚀 Featured Projects
 
-Autonomous ai smart farming rover for precision agriculture
+### 🌾 AgriVision AI
+Autonomous AI smart farming rover for precision agriculture.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Sathish-Stackk&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sathish-Stackk&show_icons=true&theme=tokyonight" />
 
 </div>
 
-# 🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 📧 **Email:** [sathishmungi@gmail.com](mailto:sathishmungi@gmail.com)
 
 ---
 
-# 💬 Quote
-
 <div align="center">
 
-### ✨ “Every Commit is a Step Forward.” 🚀
-
-<br>
+### ✨ "Every Commit is a Step Forward." 🚀
 
 ⭐ Thanks for visiting my profile..!
+
 </div>
