@@ -4,7 +4,7 @@
 
 ### 💻 Final Year B.Tech CSE Student | Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Learning+DSA+Every+Day;Building+Real-World+Projects;Exploring+Full+Stack+Development;Building+AI-powered+Agriculture+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Learning+DSA+Every+Day;Building+Real-World+Projects;Exploring+Full+Stack+Development;Building+AI-Powered+Agriculture+Projects" />
 
 </div>
 
@@ -12,11 +12,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech in Computer Science Engineering
-- 💻 Interested in Software Development & Full Stack Development
-- 🌱 Currently learning Python with DSA, JavaScript, React, Node.js and AWS
-- 🤖 Building AI-powered projects for Agriculture
-- 🎯 Goal: Become a Software Developer
+* 🎓 Final Year B.Tech Computer Science Engineering Student
+* 💻 Interested in Software Development & Full Stack Development
+* 🌱 Currently learning Python, DSA, JavaScript, React, Node.js and AWS
+* 🤖 Building AI-powered projects for Agriculture
+* 🎯 Goal: Become a Software Developer
+* 🔥 Improving my programming skills through consistent practice
 
 ---
 
@@ -24,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,aws,mysql,git,github,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,aws,mysql,postgresql,git,github,html,css" />
 
 </div>
 
@@ -32,20 +33,48 @@
 
 ## 📚 Core Subjects
 
-- Operating Systems
-- Database Management System (DBMS)
-- Computer Networks
-- Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Operating Systems
+* Database Management Systems
+* Computer Networks
 
 ---
 
 ## 💻 Currently Learning
 
-- Data Structures & Algorithms
-- Python
-- Git & GitHub
-- Full Stack Development
-- MySQL
+* Data Structures & Algorithms
+* Python
+* JavaScript
+* React
+* Node.js
+* Git & GitHub
+* AWS
+* Full Stack Development
+
+---
+
+## 🚀 Featured Project
+
+### 🌾 AgriVision AI
+
+**Autonomous AI-powered smart farming rover for precision agriculture.**
+
+The project focuses on using AI, automation and smart technologies to help improve agricultural monitoring and decision-making.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Sathish-Stackk">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sathish-Stackk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
 
 ---
 
@@ -53,13 +82,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&theme=tokyonight" />
+<a href="https://github.com/Sathish-Stackk">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</a>
 
 </div>
 
 ---
 
-## 🔥 Daily Progress
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -69,32 +102,32 @@
 
 ---
 
-## 🐍 My Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌾 AgriVision AI
-Autonomous AI smart farming rover for precision agriculture.
-
----
-
-## 📊 GitHub Stats
+## 📈 My Coding Journey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sathish-Stackk&show_icons=true&theme=tokyonight" />
+```text
+DSA                 ███████░░░  70%
+Python              ████████░░  80%
+JavaScript          ███████░░░  70%
+React               ██████░░░░  60%
+Full Stack          █████░░░░░  50%
+AWS                 ████░░░░░░  40%
+```
 
 </div>
 
@@ -102,7 +135,13 @@ Autonomous AI smart farming rover for precision agriculture.
 
 ## 🌐 Connect With Me
 
+<div align="center">
+
 📧 **Email:** [sathishmungi@gmail.com](mailto:sathishmungi@gmail.com)
+
+💻 **GitHub:** [Sathish-Stackk](https://github.com/Sathish-Stackk)
+
+</div>
 
 ---
 
@@ -110,6 +149,6 @@ Autonomous AI smart farming rover for precision agriculture.
 
 ### ✨ "Every Commit is a Step Forward." 🚀
 
-⭐ Thanks for visiting my profile..!
+⭐ Thanks for visiting my profile!
 
 </div>
