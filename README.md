@@ -68,30 +68,17 @@ The project focuses on using AI, automation and smart technologies to help impro
 
 <div align="center">
 
-<a href="https://github.com/Sathish-Stackk">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sathish-Stackk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Sathish-Stackk&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ## 💻 Most Used Languages
 
 <div align="center">
 
-<a href="https://github.com/Sathish-Stackk">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
