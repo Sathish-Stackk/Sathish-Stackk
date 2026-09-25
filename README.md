@@ -1,141 +1,137 @@
 <div align="center">
 
-# Hi there 👋, I'm Sathish
-
-### 💻 Final Year B.Tech CSE Student | Aspiring Software Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Learning+DSA+Every+Day;Building+Real-World+Projects;Exploring+Full+Stack+Development;Building+AI-Powered+Agriculture+Projects" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=200&section=header&text=Sathish%20Mungi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
-
----
-
-## 🚀 About Me
-
-* 🎓 Final Year B.Tech Computer Science Engineering Student
-* 💻 Interested in Software Development & Full Stack Development
-* 🌱 Currently learning Python, DSA, JavaScript, React, Node.js and AWS
-* 🤖 Building AI-powered projects for Agriculture
-* 🎯 Goal: Become a Software Developer
-* 🔥 Improving my programming skills through consistent practice
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,aws,mysql,postgresql,git,github,html,css" />
+### 💻 Aspiring Software Developer
 
 </div>
 
----
+<br>
 
-## 📚 Core Subjects
+## 🧭 The Short Version
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* Database Management Systems
-* Computer Networks
+I'm Sathish — a CSE student who spends more time in the terminal than I probably should, currently deep in full-stack development and building AI tools aimed at real-world agriculture problems. I like systems that *work*, code that's readable six months later, and shipping things instead of just planning them.
 
----
+<br>
 
-## 💻 Currently Learning
+## 🌾 What I'm Building — AgriVision AI
 
-* Data Structures & Algorithms
-* Python
-* JavaScript
-* React
-* Node.js
-* Git & GitHub
-* AWS
-* Full Stack Development
+> An autonomous, AI-powered smart farming rover for precision agriculture.
 
----
+The idea: pair automation and computer vision with everyday farming so monitoring and decisions get faster, cheaper, and smarter. It's the project I'm proudest of right now — part robotics, part AI, part "let's actually solve something useful."
 
-## 🚀 Featured Project
+<br>
 
-### 🌾 AgriVision AI
+## 🗺️ Skill Map
 
-**Autonomous AI-powered smart farming rover for precision agriculture.**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-The project focuses on using AI, automation and smart technologies to help improve agricultural monitoring and decision-making.
+**Core CS**
 
----
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Database Management Systems
+- Computer Networks
 
-## 📊 GitHub Stats
+</td>
+<td valign="top" width="50%">
+
+**Currently Sharpening**
+
+- Python & JavaScript
+- React & Node.js
+- Git / GitHub workflows
+- AWS fundamentals
+- Full-stack system design
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sathish-Stackk&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,aws,mysql,postgresql,git,github,html,css&theme=dark" />
 
 </div>
 
-## 💻 Most Used Languages
+<br>
+
+## 📊 Progress Log
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+| Track | Progress |
+|---|---|
+| DSA | ██████████████░░░░░░ 70% |
+| Python | ████████████████░░░░ 80% |
+| JavaScript | ██████████████░░░░░░ 70% |
+| React | ████████████░░░░░░░░ 60% |
+| Full Stack | ██████████░░░░░░░░░░ 50% |
+| AWS | ████████░░░░░░░░░░░░ 40% |
 
 </div>
-## 🔥 GitHub Streak
+
+<br>
+
+## 📡 Live Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sathish-Stackk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-Stackk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7"/>
 
 </div>
 
----
+<div align="center">
 
-## 🐍 Contribution Graph
+<img src="https://streak-stats.demolab.com?user=Sathish-Stackk&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7"/>
+
+</div>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Sathish-Stackk/Sathish-Stackk/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
 
----
+<br>
 
-## 📈 My Coding Journey
+## 🎯 Where This Is Headed
+
+- Land a Software Engineer role and keep building AgriVision AI on the side
+- Get comfortable calling myself "full-stack" without the mental asterisk
+- Ship more, tweak less — done beats perfect
+
+<br>
+
+## 📬 Reach Me
 
 <div align="center">
 
-```text
-DSA                 ███████░░░  70%
-Python              ████████░░  80%
-JavaScript          ███████░░░  70%
-React               ██████░░░░  60%
-Full Stack          █████░░░░░  50%
-AWS                 ████░░░░░░  40%
-```
+[![Gmail](https://img.shields.io/badge/sathishmungi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishmungi@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-mungi)
 
 </div>
 
----
-
-## 🌐 Connect With Me
+<br>
 
 <div align="center">
 
-📧 **Email:** [sathishmungi@gmail.com](mailto:sathishmungi@gmail.com)
+<sub>Every commit is a step forward. ⚡</sub>
 
-💻 **GitHub:** [Sathish-Stackk](https://github.com/Sathish-Stackk)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ "Every Commit is a Step Forward." 🚀
-
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
