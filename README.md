@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Sathish Mungi
+# Sathish Mungi
 
-### `Aspiring Software Developer`
+### `Final-Year B.Tech CSE Student • Aspiring Software Developer`
 
-**Building software that solves real problems.**
+**I learn by building, solve by debugging, and improve by shipping.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16324f,100:36BCF7&height=180&section=header&text=SATHISH%20MUNGI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20FULL%20STACK%20%7C%20AI&descAlignY=60&descSize=15" width="100%"/>
 
 <br>
 
@@ -20,114 +20,137 @@
 
 ---
 
-## 🧑‍💻 About Me
+## `whoami`
 
-I'm **Sathish**, a final-year **B.Tech Computer Science Engineering student** and an aspiring software developer.
+I'm **Sathish**, a final-year Computer Science Engineering student focused on becoming a strong **Software Developer**.
 
-I enjoy turning ideas into working applications, learning by building, and improving my problem-solving skills one project at a time.
+I enjoy taking an idea, breaking it into smaller problems, writing the code, debugging what fails, and turning it into something useful.
 
 ```text
-Currently learning →  Python • DSA • JavaScript • React • Node.js • AWS
-Currently building →  AI-powered solutions for Agriculture
-Currently improving → Full-stack development & problem solving
-Goal               →  Become a strong Software Developer
+Focus       → Software Development & Full Stack
+Learning    → Python • DSA • JavaScript • React • Node.js • AWS
+Interests   → AI • Computer Vision • Automation
+Building    → AgriVision AI
+Goal        → Start my career as a Software Developer
 ```
 
 ---
 
-## 🌾 Featured Project
+## 🚜 Featured Build — AgriVision AI
 
 <div align="center">
 
-# 🚜 AgriVision AI
-
-### `AI + Computer Vision + Robotics + Agriculture`
+### `Making Agriculture Smarter Through Technology`
 
 </div>
 
-> **An autonomous AI-powered smart farming rover designed for precision agriculture.**
+**AgriVision AI** is my long-term concept for an autonomous, AI-powered smart farming rover designed for precision agriculture.
 
-AgriVision AI is my long-term project focused on bringing intelligent automation into agriculture.
+The idea combines:
+
+```text
+Computer Vision
+      +
+Artificial Intelligence
+      +
+Robotics
+      +
+Automation
+      ↓
+Smarter Agricultural Monitoring
+```
 
 ### What I'm exploring
 
-* 🌱 Crop monitoring
+* 🌱 Crop & field monitoring
 * 📷 Computer vision
-* 🤖 Autonomous navigation
-* 🧠 AI-based decision making
-* 📊 Agricultural data analysis
+* 🤖 Autonomous movement
+* 🧠 AI-assisted decisions
+* 📊 Agricultural data
 * ⚙️ Smart farming automation
 
-**Mission:** Use technology to make agricultural monitoring more efficient, practical, and intelligent.
+> **Goal:** Build practical technology that can help make agricultural monitoring faster, smarter, and more accessible.
 
 ---
 
-## 🛠️ My Tech Stack
+## ⚙️ Technologies I'm Working With
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark" />
-
-### Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
-
-### Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,aws&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,mysql,postgresql,aws,git,github,vscode&theme=dark" />
 
 </div>
 
+<br>
+
+| Layer         | Technologies               |
+| ------------- | -------------------------- |
+| **Languages** | Python • Java • JavaScript |
+| **Frontend**  | HTML • CSS • React         |
+| **Backend**   | Node.js                    |
+| **Database**  | MySQL • PostgreSQL         |
+| **Cloud**     | AWS                        |
+| **Tools**     | Git • GitHub • VS Code     |
+
 ---
 
-## 🧠 Computer Science Foundation
+## 🧠 CS Fundamentals
+
+I don't want to learn frameworks without understanding the fundamentals underneath them.
 
 ```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Operating Systems
-Computer Networks
-Problem Solving
+DSA                  ███████████████░░░░░
+Object-Oriented      ███████████████░░░░░
+DBMS                 ██████████████░░░░░░
+Operating Systems    █████████████░░░░░░░
+Computer Networks    ████████████░░░░░░░░
+Problem Solving      ███████████████░░░░░
 ```
 
-I'm focusing on understanding the fundamentals rather than simply collecting technologies.
+**Current priority:** Strengthen DSA, programming fundamentals, and full-stack development.
 
 ---
 
-## 🔨 Things I Build
+## 🧪 What You'll Find Here
 
-| Area           | What I'm Working On                         |
-| -------------- | ------------------------------------------- |
-| 🐍 Python      | Problem solving, automation & mini projects |
-| ⚡ JavaScript   | Logic, APIs & interactive applications      |
-| ⚛️ React       | Component-based web applications            |
-| 🟢 Node.js     | Backend development                         |
-| ☁️ AWS         | Cloud fundamentals                          |
-| 🧠 AI          | Practical AI-powered applications           |
-| 🌾 Agriculture | AgriVision AI                               |
+My repositories are mainly a record of my learning and building journey.
+
+```text
+Python
+ ├── Problem Solving
+ ├── Mini Projects
+ └── Practice Programs
+
+JavaScript
+ ├── Logic & Functions
+ └── Small Applications
+
+React
+ ├── Components
+ ├── UI Experiments
+ └── Interactive Applications
+
+Projects
+ └── Real-world ideas & experiments
+```
 
 ---
 
-## 📈 My Learning Loop
+## 🔄 My Development Cycle
 
 <div align="center">
 
-**LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP**
+### `IDEA → LEARN → CODE → BREAK → DEBUG → IMPROVE → SHIP`
 
 </div>
 
-I believe the fastest way to improve as a developer is to continuously turn knowledge into something that actually runs.
+I believe **building projects teaches differently than only watching tutorials**.
+
+Every small project gives me another opportunity to understand how software actually works.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -147,52 +170,38 @@ I believe the fastest way to improve as a developer is to continuously turn know
 
 ---
 
-## 🎯 2026 → 2027
+## 🗺️ Current Roadmap
 
-* [ ] Strengthen DSA & problem solving
-* [ ] Become confident with full-stack development
-* [ ] Build and deploy real-world applications
-* [ ] Improve AWS & cloud knowledge
-* [ ] Continue developing AgriVision AI
-* [ ] Contribute to open-source projects
-* [ ] Start my career as a Software Developer
+### `2026 → 2027`
 
----
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-> **Don't just learn technology. Build something with it.**
-
-<br>
-
-`Curiosity → Consistency → Projects → Experience`
-
-</div>
+* [ ] Become stronger in DSA
+* [ ] Build production-style full-stack applications
+* [ ] Strengthen React & Node.js
+* [ ] Learn AWS fundamentals
+* [ ] Deploy real projects
+* [ ] Continue AgriVision AI
+* [ ] Explore AI & computer vision
+* [ ] Contribute to open source
+* [ ] Begin my professional software development career
 
 ---
 
-## 📬 Let's Connect
+## 🌱 Beyond Code
+
+I'm especially interested in the intersection of:
 
 <div align="center">
 
-If you're interested in **software development, AI, agriculture technology, or building something useful**, let's connect.
+**SOFTWARE**
 
-<br>
+⬇
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sathish-mungi)
+**AI / COMPUTER VISION**
 
-[![GitHub](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sathish-Stackk)
+⬇
 
-</div>
+**AUTOMATION**
 
-<br>
+⬇
 
-<div align="center">
-
-### ⚡ One project at a time. One commit at a time.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=120&section=footer" width="100%"/>
-
-</div>
+**REAL-WORLD**
